@@ -2,3 +2,4 @@
 
 env.service_name = "parameter-store-init-container-image"
 mainCI()
+
